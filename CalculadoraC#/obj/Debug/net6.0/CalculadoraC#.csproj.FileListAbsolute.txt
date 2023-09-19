@@ -1,0 +1,15 @@
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\bin\Debug\net6.0\CalculadoraC#.exe
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\bin\Debug\net6.0\CalculadoraC#.deps.json
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\bin\Debug\net6.0\CalculadoraC#.runtimeconfig.json
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\bin\Debug\net6.0\CalculadoraC#.dll
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\bin\Debug\net6.0\CalculadoraC#.pdb
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.csproj.AssemblyReference.cache
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.AssemblyInfoInputs.cache
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.AssemblyInfo.cs
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.dll
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\refint\CalculadoraC#.dll
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.pdb
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\CalculadoraC#.genruntimeconfig.cache
+C:\Users\allan.firme\Documents\CalculadoraC#\CalculadoraC#\obj\Debug\net6.0\ref\CalculadoraC#.dll
